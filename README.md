@@ -1,0 +1,2 @@
+# bananaJs
+Angular + Cordova = bananaJs
